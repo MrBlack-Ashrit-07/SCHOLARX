@@ -1,4 +1,4 @@
-# CODSOFT 20 Newsgroups Document Classifier
+# 20 Newsgroups Document Classifier
 
 An end-to-end Machine Learning project that classifies text documents into their standard newsgroup categories using TF-IDF features and a Multinomial Naive Bayes classifier.
 
